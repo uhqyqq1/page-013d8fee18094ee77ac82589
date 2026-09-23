@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ac551f73698a8b076498f98d",
+  "owner": "uhqyqq1",
+  "repo": "page-013d8fee18094ee77ac82589",
+  "title": "99吧",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "013d8fee18094ee77ac82589",
+      "a": "99吧",
+      "b": "2027最新官网",
+      "entity": "99吧",
+      "brand": "99吧",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6ef12b9c9784ad5d4c2e026a135c154783c6478221df21bfc5c4a4e14456dec1",
+      "content": {
+        "primary_entity": "99吧",
+        "keyword1": "99吧",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要跨境访问与流媒体解锁的用户，提供基础版、旗舰版、团队版三档订阅，月付最低¥15，年付更划算。旗舰版主打IPLC专线游戏加速与全节点流媒体解锁，支持5台设备同时在线；团队版可满足20台设备与高带宽办公需求。按设备数量、月流量和线路偏好挑套餐，再依客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "极速跨境，按需选套餐",
+          "AI_HERO_INTRO": "99吧提供基础版、旗舰版、团队版三档海外网络加速套餐，月付¥15起，年付额外优惠。流量从100GB到1000GB，设备上限从3台到20台，覆盖流媒体解锁、游戏专线和办公高带宽场景，可根据设备数量与使用强度快速定位合适档位。",
+          "AI_VISUAL_TITLE": "三档套餐，覆盖多设备",
+          "AI_HIGHLIGHT_1": "月付¥15起，年付更省",
+          "AI_HIGHLIGHT_2": "单账号最多支持20台设备",
+          "AI_HIGHLIGHT_3": "流媒体与游戏专线可选",
+          "AI_FEATURES_TITLE": "套餐与设备选择重点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路偏好三个角度匹配套餐，减少选错档位的麻烦。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版3台、旗舰版5台、团队版20台，按家庭或团队规模直接对应。",
+          "AI_FEATURE_TITLE_2": "按月流量定档",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB三档流量，轻度浏览选基础版，高频视频选团队版。",
+          "AI_FEATURE_TITLE_3": "按线路需求挑",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线游戏优化，团队版享VIP高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "手机、电脑、路由器各有匹配的客户端，可先确认设备系统，再按客户端文档配置订阅；部分平台未做全量验证，建议以实际客户端支持为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850。对照设备数与月流量即可确定档位。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先选套餐，再核对设备适配，最后按客户端文档导入订阅，即可完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依据设备数量和月流量，在基础版、旗舰版、团队版中确定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统是否在客户端支持范围内，留意同时在线设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅信息，按提示完成连接设置与线路选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "按设备数与流量需求选定档位，依照客户端文档配置订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "99吧的套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "基础版适合手机和笔记本轻度使用，旗舰版适合流媒体和游戏，团队版适合多设备大流量场景。可根据每月流量需求和同时在线设备数量决定。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出数量时需要升级套餐或调整使用设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相当于节省两个月费用。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，适合长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "获取订阅链接后，在对应客户端中添加订阅地址，更新节点列表即可。不同客户端的导入位置不同，可参照客户端说明操作。",
+          "AI_FAQ_QUESTION_5": "支持哪些设备和系统？",
+          "AI_FAQ_ANSWER_5": "可根据手机、电脑等设备系统选择对应客户端，导入订阅后使用。具体兼容性以实际客户端版本为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqsd13px2de9z.com",
+    "host": "xn--9kqsd13px2de9z.com"
+  },
+  "file_hashes": {
+    "index.html": "8b8900bc7909602cf3f7620f8943b627089ac9c21656275cc5aa1fbdd904cae0",
+    "sitemap.xml": "9dec2ddd469199b548c9bffc62bcc9351e312b9f9c43bea0266904dfa0a0bf38",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3bc56cea0225b9451b158d7eb82f95f39e9b2c876b320467d8be7720a01c424d",
+    "robots.txt": "ac4b8c5ed2000468a42e1d51d2488edb59a238d2865ef7c1cceda6a66c5d89c2",
+    "8c73081e1eb9b87c6c16bbbfefcb7ff9.txt": "27bf0bdc9ef0987be5edeea5a86b1481a8e70820addcfd33024367705b0a473b"
+  },
+  "revision": "2debc7dd073db7281f1ee63b305f173143b8f0a47eb48b1c663e2ca17b551615"
+}
